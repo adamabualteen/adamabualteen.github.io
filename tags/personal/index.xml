@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam Abualteen | Engineer</title>
-    <link>http://adamabualteen.github.io/</link>
-    <description>Recent content on Adam Abualteen | Engineer</description>
+    <title>Personal on Adam Abualteen | Engineer</title>
+    <link>http://adamabualteen.github.io/tags/personal/</link>
+    <description>Recent content in Personal on Adam Abualteen | Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jun 2022 19:37:13 -0400</lastBuildDate><atom:link href="http://adamabualteen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jun 2022 19:37:13 -0400</lastBuildDate><atom:link href="http://adamabualteen.github.io/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to my website!</title>
       <link>http://adamabualteen.github.io/blogs/firstpost/</link>
