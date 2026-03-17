@@ -1,0 +1,13 @@
+{
+  "name": "appletini-dev",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && node serve.js"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^12.0.0"
+  }
+}
